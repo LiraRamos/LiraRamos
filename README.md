@@ -25,7 +25,7 @@
 <img align="left" height="150" src="https://1.bp.blogspot.com/-L_TqbB48jsc/XtTBlsaNhfI/AAAAAAAAG8I/GigUqQqG1F8Gjdi7knfiEdcCf-VssuC3QCK4BGAsYHg/w320-h299/cute-gif-animation.gif"  />
 
 ###
-
+<br clear="both">
 <div align="left">
   <a href="https://web.facebook.com/JeanLira.Ramos.12" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
