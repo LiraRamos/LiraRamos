@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋, I'm Lira<br>A freshie IT student from Philippines</h2>
+<h2 align="center">Hi 👋, I'm Lira<br>Perfect ako. Wala akong kasalanan, lahat kasalanan ni Pam</h2>
 
 ###
 
