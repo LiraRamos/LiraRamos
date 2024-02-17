@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋, I'm Lira<br>Perfect ako. Wala akong kasalanan, lahat kasalanan ni Pam</h2>
+<h2 align="center">Hi 👋, I'm Lira<br>1-1</h2>
 
 ###
 
@@ -48,5 +48,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LiraRamos&show_icons=true&locale=en" alt="LiraRamos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LiraRamos&theme=transparent&mode=weekly&card_width=500)](https://git.io/streak-stats)" alt="LiraRamos" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LiraRamos&" alt="LiraRamos" /></p>
 
